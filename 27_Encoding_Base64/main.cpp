@@ -1,6 +1,15 @@
 #include <QCoreApplication>
 #include <QDebug>
 
+/* ****
+ * Encoded.. "SGVsbG8NCkhlbGxvDQpIZWxsbw0KSGVsbG8NCkhlbGxvDQpIZWxsbw0KSGVsbG8NCkhlbGxvDQpIZWxsbw0KSGVsbG8NCg=="
+**********************************
+Decoded.. "Hello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\n"
+* *** */
+
+//Most chances are that it is encoded in Base64 if it ends in "=="
+
+
 QString makeData()
 {
     QString data;
@@ -29,3 +38,4 @@ int main(int argc, char *argv[])
 
     return a.exec();
 }
+
