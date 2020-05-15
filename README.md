@@ -24,7 +24,7 @@ https://www.udemy.com/course/qt-core-intermediate/
 
 * Working with the operating system *
 
-* Timers *
+* Timers 
 
 * Meta Information
 
