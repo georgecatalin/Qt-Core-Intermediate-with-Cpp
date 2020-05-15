@@ -4,25 +4,25 @@ Course work associated with the Udemy.com course "Qt Core Intermediate with C++"
 https://www.udemy.com/course/qt-core-intermediate/
 
 ## Summary
-* Memory Management
+* Memory Management *
 
-* Collections
+* Collections *
 
-* Working with settings
+* Working with settings *
 
-* Working with the file system
+* Working with the file system *
 
 * Exploring QDebug
 
-* Encoding
+* Encoding *
 
 * Working with qCompress and qUncompress
 
-* Serialization
+* Serialization *
 
-* Algorithms
+* Algorithms *
 
-* Working with the operating system
+* Working with the operating system *
 
 * Timers
 
